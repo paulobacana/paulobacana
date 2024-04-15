@@ -77,7 +77,7 @@ hobbies:
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulobacana&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulobacana&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
