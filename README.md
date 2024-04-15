@@ -17,6 +17,11 @@
   </a>
 </div>
 
+<div> 
+  <a href = "mailto:erickwillyan2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/paulo-emilio-427319254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ---
 
 <h2>👀 About Me</h2>
