@@ -69,15 +69,15 @@ hobbies:
 
 <div align="center">
 <a href="https://github.com/Dimterion?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=paulobacana&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobacana&theme=dark&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://dimterion.github.io/">
-  <img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=paulobacana&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacana&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paulobacana&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulobacana&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 ---
