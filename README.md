@@ -68,10 +68,10 @@ hobbies:
 <h2>📈 GitHub profile stats</h2>
 
 <div align="center">
-<a href="https://github.com/Dimterion?tab=repositories">
+<a href="https://github.com/paulobacana?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobacana&theme=dark&show_icons=true&hide_border=false&count_private=true" />
 </a>
-<a href="https://dimterion.github.io/">
+<a href="https://paulobacana.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacana&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </div>
