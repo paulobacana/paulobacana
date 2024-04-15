@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-emilio-427319254" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" target="_blank">
   </a> 
   <a href="mailto:emiliosantos936@gmail.com?Body=Hey%20there%21" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
