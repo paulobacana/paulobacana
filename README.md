@@ -9,7 +9,7 @@
 <h1 align="center">Back-End Developer</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyVtgCDFTByaYe0Xgo9tow%3D%3D" target="_blank">
+  <a href=www.linkedin.com/in/paulo-emilio-427319254" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
   </a>
   <a href="mailto:emiliosantos936@gmail.com?Body=Hey%20there%21" target="_blank">
