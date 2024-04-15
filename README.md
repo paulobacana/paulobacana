@@ -55,7 +55,7 @@ hobbies:
 
 ---
 
-<h2>🔧 Language an Tools</h2>
+<h2>🔧 Language and Tools</h2>
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
