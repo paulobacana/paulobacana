@@ -12,15 +12,12 @@
   <a href="www.linkedin.com/in/paulo-emilio-427319254" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/>
   </a>
+  <a href="https://www.linkedin.com/in/erick-willyan-dos-santos-cruz-370245237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:emiliosantos936@gmail.com?Body=Hey%20there%21" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
   </a>
 </div>
 
-<div> 
-  <a href = "mailto:erickwillyan2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/paulo-emilio-427319254" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ---
 
