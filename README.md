@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="im paulo.png"/>
+  <h1>Hi, I'm Paulo, Full-Stack Developer</h1>
 </div>
 
 <br>
 <br>
-<br>
-
-<h1 align="center">Full-Stack Developer</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-emilio-427319254" target="_blank">
@@ -18,9 +15,9 @@
 </div>
 
 
----
 
-<h2>👀 About Me</h2>
+
+<h2>About Me</h2>
 
 ```yaml
 
@@ -47,7 +44,7 @@ currently_working_on:
   ]
 ```
 
----
+
 
 <h2>Languages and Tools</h2>
 <div align="left">
@@ -59,5 +56,3 @@ currently_working_on:
 </div>
 
 ---
-
-
