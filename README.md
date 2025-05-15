@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<h1 align="center">Back-End Developer</h1>
+<h1 align="center">Full-Stack Developer</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-emilio-427319254" target="_blank">
