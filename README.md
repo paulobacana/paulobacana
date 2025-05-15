@@ -22,7 +22,7 @@
 ```yaml
 
 name: Paulo
-location: Brazil
+location: São Paulo, Brazil
 field: Full-Stack
 education:
   [
