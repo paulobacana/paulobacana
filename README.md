@@ -26,7 +26,7 @@ location: São Paulo, Brazil
 field: Full-Stack
 education:
   [
-    "ETEC - Systems Development Technician"
+    "ETEC - Systems Development Technician",
     "FATEC - Analysis and Systems Development"
   ]
 interests:
