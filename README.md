@@ -70,10 +70,5 @@ currently_working_on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacana&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulobacana&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
 ---
 
