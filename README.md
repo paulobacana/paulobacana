@@ -26,7 +26,7 @@
 
 name: Paulo
 location: Brazil
-field: Back-End
+field: Full-Stack
 education:
   [
     "ETEC - Systems Development Technician"
@@ -35,38 +35,32 @@ education:
 interests:
   [
     "Back-End",
+    "Full-Stack",
     "Web Development",
     "Game Development"
   ]
 currently_working_on:
   [
     "Training for Competitive programming",
-    "Java projects"
+    "Learning Go",
+    "Personal Projects"
   ]
-hobbies:
-  [
-    "Reading",
-    "Gaming",
-    "Personal Development",
-    "Fitness"
-  ]
-
 ```
 
 ---
 
-<h2>🔧 Language and Tools</h2>
+<h2>Languages and Tools</h2>
 <div align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=cs,js,go,mysql,git,html,css,tailwind,visualstudio,vscode" />
   </a>
 </p>
 </div>
 
 ---
 
-<h2>📈 GitHub profile stats</h2>
+<h2>GitHub profile stats</h2>
 
 <div align="center">
 <a href="https://github.com/paulobacana?tab=repositories">
