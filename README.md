@@ -38,7 +38,6 @@ interests:
   ]
 currently_working_on:
   [
-    "Training for Competitive programming",
     "Learning Go",
     "Personal Projects"
   ]
